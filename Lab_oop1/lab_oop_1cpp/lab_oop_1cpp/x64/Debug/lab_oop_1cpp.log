@@ -1,0 +1,6 @@
+﻿  DigitString.cpp
+  lab_oop_1cpp.cpp
+C:\Users\Recor\source\repos\lab_oop_1cpp\lab_oop_1cpp\DigitString.cpp(11,24): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Source.cpp
+  Создание кода...
+  lab_oop_1cpp.vcxproj -> C:\Users\Recor\source\repos\lab_oop_1cpp\x64\Debug\lab_oop_1cpp.exe
