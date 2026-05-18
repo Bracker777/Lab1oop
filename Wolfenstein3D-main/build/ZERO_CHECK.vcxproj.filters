@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Recor\Documents\Wolf3D\Wolfenstein3D-main\build\CMakeFiles\3ea41bf1c7feb1147593feb78cad815a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B35CD415-BBFC-331C-B2DD-F915695E8E11}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

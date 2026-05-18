@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Recor\Documents\Wolf3D\Wolfenstein3D-main\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Recor\Documents\Wolf3D\Wolfenstein3D-main\src\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Recor\Documents\Wolf3D\Wolfenstein3D-main\src\Raycaster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Recor\Documents\Wolf3D\Wolfenstein3D-main\src\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Recor\Documents\Wolf3D\Wolfenstein3D-main\src\Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Recor\Documents\Wolf3D\Wolfenstein3D-main\src\Monster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Recor\Documents\Wolf3D\Wolfenstein3D-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{05C3DC7E-D7A8-3243-B9D4-11CEFB04EAEA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
