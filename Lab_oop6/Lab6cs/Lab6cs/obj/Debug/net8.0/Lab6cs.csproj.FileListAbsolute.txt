@@ -1,0 +1,14 @@
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\bin\Debug\net8.0\Lab6cs.exe
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\bin\Debug\net8.0\Lab6cs.deps.json
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\bin\Debug\net8.0\Lab6cs.runtimeconfig.json
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\bin\Debug\net8.0\Lab6cs.dll
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\bin\Debug\net8.0\Lab6cs.pdb
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\obj\Debug\net8.0\Lab6cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\obj\Debug\net8.0\Lab6cs.AssemblyInfoInputs.cache
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\obj\Debug\net8.0\Lab6cs.AssemblyInfo.cs
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\obj\Debug\net8.0\Lab6cs.csproj.CoreCompileInputs.cache
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\obj\Debug\net8.0\Lab6cs.dll
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\obj\Debug\net8.0\refint\Lab6cs.dll
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\obj\Debug\net8.0\Lab6cs.pdb
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\obj\Debug\net8.0\Lab6cs.genruntimeconfig.cache
+C:\Users\Recor\source\repos\Lab6cs\Lab6cs\obj\Debug\net8.0\ref\Lab6cs.dll

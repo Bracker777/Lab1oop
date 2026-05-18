@@ -1,0 +1,6 @@
+﻿  Lab6cpp.cpp
+  Line.cpp
+  TextContainer.cpp
+C:\Users\Recor\source\repos\Lab6cpp\Lab6cpp\TextContainer.cpp(34,44): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Lab6cpp.vcxproj -> C:\Users\Recor\source\repos\Lab6cpp\x64\Debug\Lab6cpp.exe
